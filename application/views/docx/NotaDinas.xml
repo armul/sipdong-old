@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NaskahDinas>
+	<NotaDinas no="1" kd="WPJ.27/KP.0105" th="2014">
+		<Tujuan>Supervisor Kelompok I</Tujuan>
+		<Pengirim>
+			<Jabatan>Kepala Kantor</Jabatan>
+			<Nama>Eko Budihartono</Nama>
+			<NIP>197106011996031001</NIP>
+		</Pengirim>
+		<Sifat>Segera</Sifat>
+		<Lampiran>Satu lembar</Lampiran>
+		<Hal>Penyusunan Rencana Pemeriksaan</Hal>
+		<Tanggal>25 November 2014</Tanggal>
+	</NotaDinas>
+	<NotaDinas no="2" kd="WPJ.27/KP.0105" th="2014">
+		<Tujuan>Supervisor Kelompok II</Tujuan>
+		<Pengirim>
+			<Jabatan>Kepala Kantor</Jabatan>
+			<Nama>Eko Budihartono</Nama>
+			<NIP></NIP>
+		</Pengirim>
+		<Sifat></Sifat>
+		<Lampiran></Lampiran>
+		<Hal>Penyusunan Rencana Pemeriksaan</Hal>
+		<Tanggal>26 November 2014</Tanggal>
+	</NotaDinas>
+	<NotaDinas no="3" kd="WPJ.27/KP.0105" th="2014">
+		<Tujuan>Kepala Seksi Pelayanan</Tujuan>
+		<Pengirim>
+			<Jabatan>Kepala Seksi Pemeriksaan dan Kepatuhan Internal</Jabatan>
+			<Nama>Fatmizahri</Nama>
+			<NIP>196002191981032001</NIP>
+		</Pengirim>
+		<Sifat>Biasa</Sifat>
+		<Lampiran>Satu set</Lampiran>
+		<Hal>Pengembalian Berkas SPT Tahunan PPh</Hal>
+		<Tanggal>27 November 2014</Tanggal>
+	</NotaDinas>
+	<NotaDinas no="4" kd="WPJ.27/KP.0105" th="2014">
+		<Tujuan>Supervisor Kelompok I</Tujuan>
+		<Pengirim>
+			<Jabatan>Kepala Kantor</Jabatan>
+			<Nama>Eko Budihartono</Nama>
+			<NIP></NIP>
+		</Pengirim>
+		<Sifat></Sifat>
+		<Lampiran>Satu lembar</Lampiran>
+		<Hal>Penyusunan Rencana Pemeriksaan</Hal>
+		<Tanggal>28 November 2014</Tanggal>
+	</NotaDinas>
+</NaskahDinas>
